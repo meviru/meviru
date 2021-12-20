@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meviru
 - 👀 I’m interested in frontend development technologies.
-- 🌱 I’m currently learning three.js and WebGL and some animation libaries to make some interactive experiences.
+- 🌱 I’m currently learning three.js, WebGL and some animation libaries to make some interactive experiences.
 - 📫 How to reach me @ ivirus.design@gmail.com
 
 <!---
