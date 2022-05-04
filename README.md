@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viral Patel
 - 👀 I’m interested in frontend development technologies.
-- 🌱 I’m currently learning Vue, React, three.js, WebGL and some animation libaries to make some interactive experiences.
+- 🌱 I’m currently learning Vue, Angular, three.js, WebGL and some animation libaries to make some interactive experiences.
 - 📫 How to reach me @ ivirus.design@gmail.com
 
 <!---
