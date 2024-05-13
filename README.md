@@ -25,8 +25,8 @@
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/viralpatel508/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/viralpatel508)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat)](https://viru.vercel.app)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x)](https://twitter.com/viralpatel508)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://viru.vercel.app)
 
 
 
