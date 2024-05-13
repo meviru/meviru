@@ -28,7 +28,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x)](https://twitter.com/viralpatel508)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://viru.vercel.app)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meviru&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
