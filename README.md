@@ -7,9 +7,6 @@
 - 📫 How to reach me @ ivirus.design@gmail.com
 
 ## Tech Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=flat&logo=typescript)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-323330?style=flat&logo=html5)
@@ -17,6 +14,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-323330?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-323330?style=flat&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=flat&logo=typescript)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-323330?style=flat&logo=git)
