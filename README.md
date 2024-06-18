@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on [Project/Idea].
 - 🤔 Open to discuss anything tech-related.
 - 📫 How to reach me @ ivirus.design@gmail.com
-
+  
 ## Tech Stack
 
 ### Frontend
@@ -59,3 +59,5 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01444c733819e88c64)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelancer.in/u/viralpatel508)
 
+### Visitors
+![](https://komarev.com/ghpvc/?username=meviru&style=for-the-badge)
