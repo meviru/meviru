@@ -39,7 +39,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-### Learning from
+### Learning From
 ![Udemy](https://img.shields.io/badge/Udemy-a100ff?style=for-the-badge&logo=Udemy&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
