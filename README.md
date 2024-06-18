@@ -46,7 +46,6 @@
 ![MDN_Web_Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### Let's Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a68e7?style=for-the-badge&logo=About.me&logoColor=white)](https://viru.vercel.app)
