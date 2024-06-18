@@ -23,18 +23,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-323330?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-323330?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-323330?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Let's Connect
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://viru.vercel.app)
-[![Codepen](https://img.shields.io/badge/-Codepen-000?style=flat&logo=codepen)](https://codepen.io/viralpatel508)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/viralpatel508/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x)](https://twitter.com/viralpatel508)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a68e7?style=for-the-badge&logo=vagrant&logoColor=white)](https://viru.vercel.app)
+[![Codepen](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/viralpatel508)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viralpatel508/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9030929/viral?tab=profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/viralpatel508)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viru___/)
 
