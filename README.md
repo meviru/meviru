@@ -2,9 +2,9 @@
 - 👋 Hey there, I’m Viral Patel.
 - 💻 Making immersive and engaging web experiences is what I enjoy doing as a front-end developer. 
 - 🌱 Currently learning React.
-- 👯 Looking to collaborate on [Project/Idea].
+- 👯 Looking for backend engineers to collaborate on an Idea.
 - 🤔 Open to discuss anything tech-related.
-- 📫 How to reach me @ ivirus.design@gmail.com
+- 📫 How to reach me @ viralpatel508@gmail.com
   
 ## Tech Stack
 
