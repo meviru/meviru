@@ -1,11 +1,10 @@
-<img src="https://gifdb.com/images/high/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" alt="Hello, there" />
+<img src="https://github.com/meviru/meviru/blob/main/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" alt="Hello, there" />
 
 ## About Me
 - 👋 Hey there, I’m Viral Patel.
 - 💻 Making immersive and engaging web experiences is what I enjoy doing as a front-end developer. 
-- 🌱 Currently learning React.
+- ⚛️ | Copy & Paste Currently learning React.
 - 👯 Looking for backend engineers to collaborate on an Idea.
-- 🤔 Open to discuss anything tech-related.
 - 📫 How to reach me @ viralpatel508@gmail.com
   
 ## Tech Stack
