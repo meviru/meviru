@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hello there, I’m Viral Patel.
 - 💻 Making immersive and engaging web experiences is what I enjoy doing as a front-end developer. 
-- ⚛️ | Copy & Paste Currently learning React.
+- ⚛️ Currently learning React.
 - 👯 Looking for backend engineers to collaborate on an Idea.
 - 📫 How to reach me @ viralpatel508@gmail.com
   
