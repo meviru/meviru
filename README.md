@@ -1,3 +1,5 @@
+<img src="https://gifdb.com/images/high/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" alt="Hello, there" />
+
 ## About Me
 - 👋 Hey there, I’m Viral Patel.
 - 💻 Making immersive and engaging web experiences is what I enjoy doing as a front-end developer. 
