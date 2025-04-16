@@ -20,17 +20,17 @@
 ## 🛠️ Tech Stack
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue,angular,threejs,webflow,jquery,bootstrap,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue,angular,threejs,wordpress,webflow,jquery,bootstrap,tailwind,styledcomponents" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,xd,photoshop,wordpress,azure,jira,trello" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,photoshop,xd,azure,jira,trello" />
 </p>
 
 ### Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
 </p>
 
 ### Learning From
