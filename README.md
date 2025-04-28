@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue,angular,threejs,wordpress,webflow,jquery,bootstrap,tailwind,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,next,vue,angular,threejs,wordpress,webflow,jquery,bootstrap,tailwind,styledcomponents" />
 </p>
 
 ### Tools & Platforms
