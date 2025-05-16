@@ -1,19 +1,8 @@
-<img src="https://github.com/meviru/meviru/blob/main/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" alt="Hello, there" />
-
 <h1 align="center">Hi there, I'm Viral 👋</h1>
 
 <p align="center">
 💻 Frontend Dev | 🌐 Creative Web Architect | 🎨 UI Enthusiast  
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🧑‍💻 I’m Viral Patel – crafting immersive, performant web experiences.
-- 🚀 Currently leveling up in **React** and **Node.js**.
-- 🤝 Looking to collaborate with talented **backend engineers**.
-- 📫 Reach me at: **viralpatel508@gmail.com**
 
 ---
 
