@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Viral 👋</h1>
 
 <p align="center">
-💻 Frontend Dev | 🌐 Creative Web Architect | 🎨 UI Enthusiast  
+💻 Fullstack | 🌐 Creative Frontend Dev | 🎨 UI Enthusiast  
 </p>
 
 ---
