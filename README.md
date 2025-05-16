@@ -12,14 +12,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,next,vue,angular,threejs,wordpress,webflow,jquery,bootstrap,tailwind,styledcomponents" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
+</p>
+
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,photoshop,xd,azure,jira,trello" />
-</p>
-
-### Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
 </p>
 
 ### Let's Connect
