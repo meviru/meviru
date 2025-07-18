@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,azure,vscode,figma,photoshop,xd" />
 </p>
 
-### Let's Connect
+### Reach me out on social platforms
 [![Portfolio](https://skillicons.dev/icons?i=v)](https://viru.vercel.app)
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/viralpatel508)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/9030929/viral?tab=profile)
